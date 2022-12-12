@@ -5,7 +5,7 @@
   <a href="https://github.com/gabekole/gabekole">
     <img src="https://komarev.com/ghpvc/?username=gabekole" alt="page views" />
   </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/gabekole?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/gabekole?color=green&logo=github">
   </a>
 </p>
