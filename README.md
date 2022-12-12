@@ -28,6 +28,82 @@
 
 > Tools that I like to work with.
 
+
+<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 2vw;">
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-arduino.svg" width="48" height="48" alt="Arduino" />
+    </a>
+    <br>Arduino
+  </div>
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-python.svg" width="48" height="48" alt="Python" />
+      </a>
+    <br>Python
+  </div>
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-vscode.svg" width="48" height="48" alt="VsCode" />
+      </a>
+      <br>VSCode
+  </div>
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-cpp.svg" width="48" height="48" alt="C++" />
+    </a>
+    <br>C++
+  </div>
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-git.svg" width="48" height="48" alt="Git" />
+    </a>
+    <br>Git
+  </div>
+
+  <div align="center" width="96">
+      <a href="#gabekole-tech">
+        <img src="./assets/icon-typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+  </div>
+
+  <div align="center" width="96">
+      <a href="#gabekole-tech">
+        <img src="./assets/icon-javascript.svg" width="48" height="48" alt="JavaScript"/>
+      </a>
+      <br>JavaScript
+  </div>
+
+  <div align="center" width="96">
+      <a href="#gabekole-tech" >
+        <img src="./assets/icon-github.svg" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+  </div>
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-simulink.svg" width="48" height="48" alt="Simulink" />
+    </a>
+    <br>Simulink
+  </div> 
+
+  <div align="center" width="96">
+    <a href="#gabekole-tech">
+      <img src="./assets/icon-webpack.svg" width="48" height="48" alt="Webpack" />
+    </a>
+    <br>Webpack
+  </div>
+</div>
+
+<br>
+
 <table>
   <tr>
     <td align="center" width="96">
