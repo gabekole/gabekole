@@ -1,5 +1,5 @@
 <h1 align="left" id="gabekole-title">:wave: Hello there! I'm Gabe Koleszar</h1>
-<h4 align="left">I'm Gabe, a student pursuing a double major in Electrical Engineering and Computer Science and Engineering at UConn.</h4>
+<h4 align="left">I'm Gabe, a student pursuing a double major in Electrical Engineering and Computer Science and Engineering.</h4>
 
 <p align="left">
   <a href="https://github.com/gabekole/gabekole">
@@ -15,7 +15,7 @@
 </a>
 
 
-- :office: &nbsp;I'm currently a student at **[the University of Connecicut](https://uconn.edu/)**
+- :office: &nbsp;I currently study at **[the University of Connecicut](https://uconn.edu/)**
 - :seedling: &nbsp;I’m currently learning **C++**
 - :rocket: &nbsp;I'm a member of **[Propulsive landing](https://github.com/Propulsive-Landing)**
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/gabekole/gabekole/issues)**
