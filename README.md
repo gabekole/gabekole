@@ -31,114 +31,67 @@
   <tr>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="https://icons8.com/icon/13444/arduino" width="48" height="48" alt="Arduino" />
+        <img src="./assets/icon-arduino.svg" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./assets/icon-python.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./assets/icon-vscode.svg" width="48" height="48" alt="VsCode" />
       </a>
-      <br>Go
+      <br>VSCode
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./assets/icon-cpp.svg" width="48" height="48" alt="C++" />
       </a>
-      <br>Jsonnet
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./assets/icon-git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#gabekole-tech">
+        <img src="./assets/icon-typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./assets/icon-javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./assets/icon-github.svg" width="48" height="48" alt="Github" />
       </a>
-      <br>React
+      <br>Github
     </td>
     <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./assets/icon-simulink.svg" width="48" height="48" alt="Simulink" />
       </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
+      <br>Simulink
+    </td> 
+        <td align="center" width="96">
       <a href="#gabekole-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./assets/icon-webpack.svg" width="48" height="48" alt="Webpack" />
       </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#gabekole-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#gabekole-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#gabekole-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#gabekole-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#gabekole-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center"  width="96">
-      <a href="#gabekole-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#gabekole-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#gabekole-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#gabekole-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
+      <br>Webpack
+    </td>    
+    
   </tr>
 </table>
 
