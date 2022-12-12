@@ -17,7 +17,7 @@
 
 - :office: &nbsp;I'm currently a student at **[the University of Connecicut](https://uconn.edu/)**
 - :seedling: &nbsp;I’m currently learning **C++**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]()**
+- :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/gabekole/gabekole/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/gabriel-koleszar-058688214/)**
 
 <br>
