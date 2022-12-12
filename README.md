@@ -99,10 +99,10 @@
 
 <h2 align="left">Current Projects</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gabekole/FlappyBird">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabekole&repo=FlappyBird&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Propulsive-Landing/ground-control">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Propulsive-Landing&repo=ground-control&theme=transparent" />
 </a>
 <br>
