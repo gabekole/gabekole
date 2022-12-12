@@ -26,13 +26,13 @@
 
 <h2 align="left">Activity</h2>
 
-[![Gabekole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabekole)
+[![Gabekole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabekole&compact=true)](https://github.com/gabekole/gabekole)
+
+<h2 align="left">Current Projects</h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabekole&repo=FlappyBird" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Propulsive-Landing&repo=ground-control" />
 </a>
-
-<h2 align="left">Tools</h2>
