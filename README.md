@@ -22,3 +22,17 @@
 
 <br>
 
+
+
+<h2 align="left">Activity</h2>
+
+[![Gabekole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabekole)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+<h2 align="left">Tools</h2>
