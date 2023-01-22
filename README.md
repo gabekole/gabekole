@@ -107,6 +107,8 @@
 </a>
 <br>
 
+<!-- 
 <h2 align="left">Coding Activity</h2>
 
 [![Gabekole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabekole&compact=true&theme=transparent)](https://github.com/gabekole)
+-->
