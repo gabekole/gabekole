@@ -10,9 +10,11 @@
   </a>
 </p>
 
+<!--
 <a href="#gabekole-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=gabekole&show_icons=true&count_private=true&theme=transparent" alt="GabeKole stats" />
 </a>
+-->
 
 
 - :office: &nbsp;I currently study at **[the University of Connecicut](https://uconn.edu/)**
