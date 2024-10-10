@@ -18,7 +18,7 @@
 
 
 - :office: &nbsp;I currently study at **[the University of Connecicut](https://uconn.edu/)**
-- :seedling: &nbsp;I’m currently learning **C++**
+- :seedling: &nbsp;I enjoy embedded programming in **C++**
 - :rocket: &nbsp;I'm a member of **[Propulsive landing](https://github.com/Propulsive-Landing)**
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/gabekole/gabekole/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/gabriel-koleszar-058688214/)**
