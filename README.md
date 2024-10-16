@@ -107,6 +107,9 @@
 <a href="https://github.com/Propulsive-Landing/ground-control">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Propulsive-Landing&repo=ground-control&theme=transparent" />
 </a>
+<a href="https://github.com/Propulsive-Landing/ferda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Propulsive-Landing&repo=ferda&theme=transparent" />
+</a>
 <br>
 
 <!--
