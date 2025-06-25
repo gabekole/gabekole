@@ -21,7 +21,7 @@
 - :rocket: &nbsp;I'm an alumnus of **[Propulsive landing](https://github.com/Propulsive-Landing)**
 - :mortar_board: &nbsp;Graduated from the University of Connecticut with a BSE in Electrical Engineering and a BS in Computer Science
 - :art: &nbsp;Check out my **[Floral Art Portfolio](https://github.com/gabekole/floral-portfolio)**
-- :video_game: &nbsp;I work with **[UEFN](https://dev.epicgames.com/documentation/en-us/uefn)**, doing freelance work and publishing my own games
+- :video_game: &nbsp;I work with **[UEFN](https://dev.epicgames.com/documentation/en-us/fortnite/whats-new-in-unreal-editor-for-fortnite)**, doing freelance work and publishing my own games
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/gabekole/gabekole/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/gabriel-koleszar-058688214/)**
 
