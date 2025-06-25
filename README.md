@@ -1,5 +1,5 @@
 <h1 align="left" id="gabekole-title">:wave: Hello there! I'm Gabe Koleszar</h1>
-<h4 align="left">I'm Gabe, a student pursuing a double major in Electrical Engineering and Computer Science and Engineering.</h4>
+<h4 align="left">I'm Gabe, an Engineer based out of Hartford</h4>
 
 <p align="left">
   <a href="https://github.com/gabekole/gabekole">
@@ -16,15 +16,16 @@
 </a>
 -->
 
-
-- :office: &nbsp;I currently study at **[the University of Connecicut](https://uconn.edu/)**
+- :office: &nbsp;I currently work at **Travelers Insurance**
 - :seedling: &nbsp;I enjoy embedded programming in **C++**
-- :rocket: &nbsp;I'm a member of **[Propulsive landing](https://github.com/Propulsive-Landing)**
+- :rocket: &nbsp;I'm an alumnus of **[Propulsive landing](https://github.com/Propulsive-Landing)**
+- :mortar_board: &nbsp;Graduated from the University of Connecticut with a BSE in Electrical Engineering and a BS in Computer Science
+- :art: &nbsp;Check out my **[Floral Art Portfolio](https://github.com/gabekole/floral-portfolio)**
+- :video_game: &nbsp;I work with **[UEFN](https://dev.epicgames.com/documentation/en-us/uefn)**, doing freelance work and publishing my own games
 - :mailbox: &nbsp;Ask me anything on my **[issues page](https://github.com/gabekole/gabekole/issues)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/gabriel-koleszar-058688214/)**
 
 <br>
-
 
 <h2 align="left" id="gabekole-tech">Favorite Tech</h2>
 
@@ -88,18 +89,16 @@
       </a>
       <br>Simulink
     </td> 
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#gabekole-tech">
         <img src="./assets/icon-webpack.svg" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
     </td>    
-    
   </tr>
 </table>
 
-
-<h2 align="left">Current Projects</h2>
+<h2 align="left">Projects</h2>
 
 <a href="https://github.com/gabekole/FlappyBird">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabekole&repo=FlappyBird&theme=transparent" />
@@ -110,11 +109,13 @@
 <a href="https://github.com/Propulsive-Landing/ferda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Propulsive-Landing&repo=ferda&theme=transparent" />
 </a>
+<a href="https://github.com/gabekole/floral-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabekole&repo=floral-portfolio&theme=transparent" />
+</a>
+<a href="https://github.com/gabekole/m3u8Downloader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabekole&repo=m3u8Downloader&theme=transparent" />
+</a>
+<a href="https://github.com/gabekole/MicrosoftGraphMailApiProxy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabekole&repo=MicrosoftGraphMailApiProxy&theme=transparent" />
+</a>
 <br>
-
-<!--
-<h2 align="left">Coding Activity</h2>
-
-
-[![Gabekole's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabekole&compact=true&theme=transparent)](https://github.com/gabekole)
--->
