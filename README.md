@@ -1,5 +1,5 @@
 <h1 align="left" id="gabekole-title">:wave: Hello there! I'm Gabe Koleszar</h1>
-<h4 align="left">I'm Gabe, an Engineer based out of Hartford</h4>
+<h4 align="left">I'm Gabe, an Engineer based out of Connecticut, USA</h4>
 
 <p align="left">
   <a href="https://github.com/gabekole/gabekole">
